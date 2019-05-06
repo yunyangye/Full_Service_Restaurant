@@ -40,7 +40,7 @@ def sensiAnal(model_results,Problem):
             if row[0] == x:
                 problem = row[1]
         if len(X_clim) > 0:
-            Si = morris.analyze(problem,np.array(X_clim),np.array(Y_clim),conf_level=0.95,print_to_console=True,num_levels=4,grid_jump=2)
+            Si = morris.analyze(problem,np.array(X_clim),np.array(Y_clim),conf_level=0.95,print_to_console=True,num_levels=4)
             
             mu_clim = Si['mu_star']
             sigma_clim = Si['sigma']
