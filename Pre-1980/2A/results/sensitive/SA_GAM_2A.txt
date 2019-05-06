@@ -1,0 +1,45 @@
+
+
+############################################### 
+           Output = V18 
+###############################################
+
+###### Fitting Model #####
+
+###### Calculating Meta-Model Estimate  ######
+
+surface = mars 
+
+Final Model: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+
+###### Calculating Sensitivity Indices #####
+
+###### Calculating CDF Estimate  ######
+
+
+####### Output = V18 #######
+
+#### surface = mars ####
+
+Estimated Model Summary: 
+Model: V18 = f(V8, V9, V11, V16, V14, V3, V10, V7, V13, V5, V4, V6, V12, V15)
+Rsq = 1
+dfmod = -1
+
+Input	S.hat 	S.cum 	T.hat 	95% T CI 	p-val
+V8	0.843 	0.843 	0.846 	(NA, NA)	NA 	
+V9	0.051 	0.894 	0.055 	(NA, NA)	NA 	
+V11	0.033 	0.927 	0.032 	(NA, NA)	NA 	
+V16	0.038 	0.965 	0.028 	(NA, NA)	NA 	
+V14	0.015 	0.980 	0.015 	(NA, NA)	NA 	
+V3	0.002 	0.982 	0.006 	(NA, NA)	NA 	
+V10	0.003 	0.985 	0.006 	(NA, NA)	NA 	
+V7	0.000 	0.985 	0.005 	(NA, NA)	NA 	
+V13	0.002 	0.987 	0.005 	(NA, NA)	NA 	
+V5	0.013 	1.000 	0.001 	(NA, NA)	NA 	
+V4	0.000 	1.000 	0.000 	(NA, NA)	NA 	
+V6	0.000 	1.000 	0.000 	(NA, NA)	NA 	
+V12	0.000 	1.000 	0.000 	(NA, NA)	NA 	
+V15	0.000 	1.000 	0.000 	(NA, NA)	NA 	
+

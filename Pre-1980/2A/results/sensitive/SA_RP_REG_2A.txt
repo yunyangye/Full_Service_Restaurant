@@ -1,0 +1,35 @@
+
+
+############################################### 
+           Output = V18 
+###############################################
+
+###### Fitting Model #####
+
+###### Calculating Meta-Model Estimate  ######
+
+surface = tree 
+
+Final Model: 6 7 14 9
+
+
+###### Calculating Sensitivity Indices #####
+
+###### Calculating CDF Estimate  ######
+
+
+####### Output = V18 #######
+
+#### surface = tree ####
+
+Estimated Model Summary: 
+Model: V18 = f(V8, V9, V16, V11)
+Rsq = 0.9128493
+dfmod = 40
+
+Input	S.hat 	S.cum 	T.hat 	95% T CI 	p-val
+V8	0.925 	0.925 	0.946 	(NA, NA)	NA 	
+V9	0.044 	0.969 	0.063 	(NA, NA)	NA 	
+V16	0.010 	0.979 	0.025 	(NA, NA)	NA 	
+V11	0.021 	1.000 	0.021 	(NA, NA)	NA 	
+

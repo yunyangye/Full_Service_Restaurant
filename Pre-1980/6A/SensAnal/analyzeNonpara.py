@@ -33,7 +33,7 @@ def sensiAnal(result_file_name):
       #install.packages('./CompModSA_1.2.tar.gz', repos = NULL, type = 'source')
       
       #load the package CompModSA and related packages
-      library('CompModSA', lib.loc='~/R/x86_64-pc-linux-gnu-library/3.3')
+      library('CompModSA', lib.loc='~/R/x86_64-pc-linux-gnu-library/3.5/')
       
       path_location <- getwd()
       data <- read.csv(paste(path_location,'/results/',result_file_name,'.csv',sep=""), header=FALSE, sep=",")
