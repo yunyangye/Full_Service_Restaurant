@@ -1,0 +1,14 @@
+7A,ChangeInsulationRValueForExteriorWalls,r_value,8.940843363804532,6.400218099970725e-11
+7A,ChangeInsulationRValueForRoofs,r_value_roof,6.27917428813538,1.2114787567347664e-10
+7A,ChangeUValueandSHGCOfWindows,window_u_value_ip,0.3483429756977614,3.2536737987654655e-11
+7A,ChangeUValueandSHGCOfWindows,window_shgc,0.5517165723136372,5.2778494549044635e-11
+7A,SetGasBurnerEfficiency,eff,0.3879251244200077,6.903309680636519e-11
+7A,ReplaceLightsInSpaceTypeWithLPD,lpd,35.11419363852926,1.963074117417398e-11
+7A,ChangeCOPforSingleSpeedDXCoolingUnits,cop,1.3497826419253443,7.467226366622036e-11
+7A,SetHeatingandCoolingSizingFactors,htg_sz_factor,0.2506268973556871,2.6436040173042924e-11
+7A,SetHeatingandCoolingSizingFactors,clg_sz_factor,8.810700926519132,2.2441850876680238e-11
+7A,SetWaterHeaterEfficiency,heater_thermal_efficiency,0.08522670766640772,7.853006265043304e-11
+7A,AddOverhangsByProjectionFactor,projection_factor,3.663320308417667,1.1376656108510914e-10
+7A,ChangeOutdoorAir,design_spec_outdoor_air_per_person,12.282513245627143,4.9032416136322515e-11
+7A,ResizeExistingWindowsToMatchAGivenWWR,wwr,0.33206434371280125,5.257598352074213e-11
+7A,ChangeElectricEquipmentLoadsByPercentage,elecequip_power_change_percent,2.45024598922825,3.658036315215643e-11
